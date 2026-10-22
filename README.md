@@ -1,9 +1,9 @@
 # APZ
 
-Aufgabenplanung und Zeiterfassung von **Maskini & Haider**.
+Plan tasks, log time and track progress together.
 
-[Projektseite öffnen](https://maskini.github.io/apz/)
+[Open APZ](https://apz.win-space.workers.dev) · [Project page](https://maskini.github.io/apz/)
 
-Aufgaben und Subaufgaben verwalten, Arbeitszeit erfassen, Fortschritt verfolgen und die Woche planen.
+By Maskini & Haider. The app opens in German and includes an English switch.
 
-Dieses Repository enthält ausschließlich die öffentliche Projektseite mit einer Anwendungsvorschau. Der Anwendungscode wird separat privat verwaltet. Die verlinkte Anwendung erfordert privaten Zugang.
+This repository contains the public project page and preview. The application source is maintained in a separate private repository. The application runs on Cloudflare Workers.
