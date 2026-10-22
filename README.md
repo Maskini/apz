@@ -2,7 +2,7 @@
 
 Plan tasks, log time and track progress together.
 
-[Open APZ](https://apz.win-space.workers.dev) · [Project page](https://maskini.github.io/apz/)
+[Open APZ](https://apz-ese.pages.dev) · [Project page](https://maskini.github.io/apz/)
 
 By Maskini & Haider. The app opens in German and includes an English switch.
 
